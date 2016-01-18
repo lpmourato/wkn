@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:wknote="http://schemas.android.com/apk/res-auto" >
+  
+    <item android:id="@+id/action_score_single"
+         android:title="@string/title_single"
+         />
+    <!-- wknote:actionViewClass="android.support.v7.widget.Save"  -->
+    <item android:id="@+id/action_score_hard"
+        android:title="@string/title_hard"
+          />
+</menu>

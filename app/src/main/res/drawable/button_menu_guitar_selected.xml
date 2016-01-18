@@ -1,0 +1,14 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+   <item>
+      <shape android:shape="oval" >
+          <stroke android:width="@dimen/stroke_size" android:color="@color/stroke_selected"/>
+          <size android:width="@dimen/menu_circle_size" android:height="@dimen/menu_circle_size"/>
+          <solid android:color="@color/menu_selected_color"/>
+      </shape>
+   </item>
+   <item>
+      <bitmap 
+          android:src="@drawable/button_guitar"
+          android:gravity="center"  />
+   </item>
+</layer-list>

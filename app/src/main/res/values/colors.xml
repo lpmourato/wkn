@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="default_background" type="color">#1565C0</item>
+    <item name="default_background_menu" type="color">#0D47A1</item>	
+    <item name="red" type="color">#FF6F00</item>
+    <item name="blue" type="color">#00B8D4</item>
+	<item name="menu_selected_color" type="color">#2196F3</item>
+	<item name="stroke_selected" type="color">#BBDEFB</item>    
+</resources>

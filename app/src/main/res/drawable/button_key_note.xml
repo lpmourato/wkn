@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item >
+        <shape android:shape="oval" >
+            <stroke android:width="3dp" android:color="@android:color/white"/>
+            <size android:width="@dimen/circle_button" android:height="@dimen/circle_button"/>
+            <solid android:color="@color/default_background"/>
+        </shape>
+    </item>
+    
+</layer-list>

@@ -1,0 +1,15 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+   <item>
+      <shape android:shape="oval" >
+          <stroke android:width="@dimen/stroke_size" android:color="@android:color/white"/>
+          <size android:width="@dimen/avatar_height" android:height="@dimen/avatar_height"/>
+          <solid android:color="@color/default_background"/>
+      </shape>
+          
+   </item>
+   <item>
+      <bitmap 
+          android:src="@drawable/button_save"
+          android:gravity="center"  />
+   </item>
+</layer-list>

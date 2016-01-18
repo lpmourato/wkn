@@ -1,0 +1,13 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+   <item>
+      <shape android:shape="oval" >
+          <stroke android:width="@dimen/menu_stroke_size" android:color="@color/blue"/>
+          <size android:width="@dimen/main_menu_circle_size" android:height="@dimen/main_menu_circle_size"/>
+      </shape>
+   </item>
+   <item>
+      <bitmap 
+          android:src="@drawable/menu_player"
+          android:gravity="center"  />
+   </item>
+</layer-list>

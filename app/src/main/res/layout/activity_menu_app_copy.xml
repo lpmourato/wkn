@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/default_background"
+    android:gravity="center" >
+
+
+    
+	 <TableLayout
+        android:id="@+id/table"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:gravity="center_horizontal" 
+        android:onClick="doNothing">
+
+        <TableRow
+            android:id="@id/tableRow1"
+            android:gravity="center_horizontal"  
+            >
+		 	<Button
+		        android:id="@+id/img_single"
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:layout_margin="10dp"
+		        android:background="@drawable/selector_button_menu_single"
+		        android:onClick="clickSingleMode" />
+		
+		    <Button
+		        android:id="@+id/img_hard"
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:layout_margin="10dp"
+		        android:background="@drawable/selector_button_menu_hard"
+		        android:onClick="clickHardMode"/>
+		
+		    <Button
+		        android:id="@+id/img_hear"
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:layout_margin="10dp"
+		        android:background="@drawable/selector_button_menu_hear"
+		        android:onClick="clickHearMode"/>
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/tableRow2"
+            android:gravity="center_horizontal"
+            >
+			 <Button
+			        android:id="@+id/img_player"
+			        android:layout_width="wrap_content"
+			        android:layout_height="wrap_content"
+			        android:layout_margin="10dp"
+			        android:background="@drawable/selector_button_menu_player"
+			        android:onClick="clickPlayer"/>
+			
+			   
+			    <Button
+			        android:id="@+id/img_records"
+			        android:layout_width="wrap_content"
+			        android:layout_height="wrap_content"
+			        android:layout_margin="10dp"
+			        android:background="@drawable/selector_button_menu_single"
+			        android:onClick="clickRecords"/>
+			
+			    <Button
+			        android:id="@+id/img_about"
+			        android:layout_width="wrap_content"
+			        android:layout_height="wrap_content"
+			        android:layout_margin="10dp"
+			        android:background="@drawable/selector_button_menu_single"
+			        android:onClick="showAbout" />
+         
+        </TableRow>
+    </TableLayout>
+
+   
+
+</RelativeLayout>

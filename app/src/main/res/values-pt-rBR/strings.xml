@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">"Musical Note"</string>
+    <string name="title_activity_player">Jogador</string>
+    
+	<!-- content description -->
+    <string name="choseToGuitar">Mudar instrumento para Violão</string>
+    <string name="choseToBass">Mudar instrumento para Baixo</string>
+    <string name="choseToPiano">Mudar instrumento para Piano</string>
+    <string name="choseToAll">Mudar instrumento para Violão, Baixo e Piano</string>
+    
+    <string name="scoreValue">0</string>
+    <string name="score">Pontos: </string>
+    <string name="line">line</string>
+    <string name="save">"Salvar"</string>
+
+    <string name="player_name">"Jogador:"</string>
+    <string name="single">"Fácil"</string>
+    <string name="hard">"Difícil"</string>
+    <string name="send_score">"Enviar pontuação do jogador"</string>
+    
+    <!-- messages and others texts -->
+    <string name="success_update">Jogador atualizado com sucesso!</string>
+    <string name="error_update">Ocorreu um erro ao tentar atualizar o jogador. Por favor, tente novamente em instantes.</string>
+    <string name="already_exists">Por favor. Tente outro nome.</string>
+    <string name="msg_save_player_name">Por favor, salve antes o nome do jogador ou volte ao nome original.</string>
+    <string name="operation_canceled">Operação cancelada!</string>
+    <string name="insuficient_memory">"Não há memória suficiente para realizar esta operação!"</string>
+    <string name="error_play_sound">"Ocorreu um erro ao tocar a nota musical. \n Por favor, tente novamente."</string>
+    <string name="show_msg_touch_screen">"Toque no instrumento para tocar uma nota."</string>
+    <string name="show_msg_touch_button">"Toque em um dos botões pra ouvir uma nota."</string>
+	<string name="msg_replace_name">"Confirma as mudanças?"</string>
+	<string name="replace_name">"Mudar nome do jogador"</string>
+	<string name="msg_error_get_path_note">"Erro obtendo um som."</string>
+	<string name="msg_not_connected">"Não conectado!"</string>
+	<string name="msg_no_scores_result">"Nenhuma pontuação foi localizada!"</string>
+	<string name="msg_error_getting_score_list">"Erro obtendo o arquivo com a lista de recordes."</string>
+	<string name="msg_invalid_name">"Nome inválido!"</string>
+	<string name="msg_no_connection">"Não há conexão!"</string>
+	<string name="error_open">"Ocorreu um erro Por favor, tente novamente."</string>
+	
+	<string name="about">"Sobre"</string>
+	<string name="title_single">"Pontos modo fácil"</string>
+	<string name="title_hard">"Pontos modo difícil"</string>
+	
+	
+    <!-- notes names CHANGE TO NORMAL NAME E.G: dó, ré -->
+    <string name="C">c</string>
+    <string name="CS">c#</string>
+    <string name="D">d</string>
+    <string name="DS">d#</string>
+    <string name="E">e</string>
+    <string name="F">f</string>
+    <string name="FS">f#</string>
+    <string name="G">g</string>
+    <string name="GS">g#</string>
+    <string name="A">a</string>
+    <string name="AS">a#</string>
+    <string name="B">b</string>
+
+    <drawable name="focused">#00A859</drawable>
+    <drawable name="selected">#BFDDBF</drawable>
+
+    <string name="note">note</string>
+    <string name="title_activity_single_score">Recordes Modo Fácil</string>
+    <string name="title_activity_hard_score">Recordes Modo Difícil</string>
+    <string name="you_text">Você:</string>
+    <string name="general_string">Text</string>
+    <string name="empty_list">"Lista vazia:/"</string>
+   <string name="txt_score_online">Pontuação Online:</string>
+
+    <string name="thanks">"Obrigado por baixar este app!</string>
+    <string name="credits">"Créditos:"</string>
+    <string name="about_credits">
+	"O objetivo deste aplicativo é ajudar aqueles que gostam de música a aprenderem a identificar as notas musicais de forma divertida."
+    </string>
+    <string name="names">
+"Adriano Falcão  
+Frank Jr|/Patricio Mourato             
+Barbara Machado
+Cliparts Online and Icon finder
+Jr Vilarim
+Patrício Mourato
+Carlos Eduardo"
+    </string>
+    
+    <string name="helps">
+"Ideia da app 
+Tema
+Menu principal
+Imagens
+Sons
+Desenvolvimento
+Testes"
+    </string>
+   
+    <string name="send_email">Enviar email</string>
+    <string name="title_activity_send_email">Enviar Feedback</string>
+ 	<string name="title_message">Mensagem:</string>
+ 	<string name="title_subject">Assunto:</string>
+ 	
+ 	<string name="send_suggestion">Enviar sugestão</string>
+ 	<string name="report_bug">Reportar bug</string>
+ 	
+ 	<string name="msg_fill_message">Por favor, escreva a mensagem antes de enviar</string>
+ 	<string name="msg_error_send_message">Por favor, tente novamente mais tarde. Ocorreu um erro.</string>
+ 	
+</resources>

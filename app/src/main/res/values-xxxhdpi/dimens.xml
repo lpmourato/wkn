@@ -1,0 +1,16 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+<!--     <dimen name="activity_horizontal_margin">16dp</dimen> -->
+<!--     <dimen name="activity_vertical_margin">16dp</dimen> -->
+<!-- 	<dimen name="button_key_margin_left">6dp</dimen> -->
+ 	<dimen name="avatar_height">100dp</dimen>
+	<dimen name="circle_button">75dp</dimen>
+	<dimen name="menu_circle_size">95dp</dimen>
+	<dimen name="button_keynote">55dp</dimen>
+	<dimen name="button_keynote_margin">2.0dp</dimen>
+	<dimen name="margin_main_menu_button">10dp</dimen>
+	<dimen name="main_menu_circle_size">120dp</dimen>
+<!-- 	<dimen name="stroke_size">3dp</dimen> -->
+<!-- 	<dimen name="menu_stroke_size">5dp</dimen> -->
+</resources>

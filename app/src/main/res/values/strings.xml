@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">"Musical Note"</string>
+    <string name="title_activity_player">Player</string>
+
+    <!-- content description -->
+    <string name="choseToGuitar">Chose instrument to Guitar</string>
+    <string name="choseToBass">Chose instrument to Bass</string>
+    <string name="choseToPiano">Chose instrument to Piano</string>
+    <string name="choseToAll">Chose instrument to Guitar, Bass and Piano</string>
+    <string name="scoreValue">0</string>
+    <string name="score">Score: </string>
+    <string name="line">line</string>
+    <string name="save">"Save"</string>
+    <string name="player_name">"Player Name:"</string>
+    <string name="single">"Single"</string>
+    <string name="hard">"Hard"</string>
+    <string name="send_score">"Send player score"</string>
+    <string name="smile">":)"</string>
+    <string name="sad">":("</string>
+    <string name="celebrate">":D"</string>
+    <!-- messages and others texts -->
+    <string name="success_update">Player updated with success!</string>
+    <string name="error_update">Ocurs an error when try update player. Please try again.</string>
+    <string name="already_exists">Please. Try other name.</string>
+    <string name="msg_save_player_name">Please save before the player name or go back to the original name.</string>
+    <string name="operation_canceled">Operation canceled!</string>
+    <string name="insuficient_memory">"There is no suficient memory to operation"</string>
+    <string name="error_play_sound">"An error occurred while performing a musical note. \n Please try again."</string>
+    <string name="show_msg_touch_screen">"Touch the instrument to play"</string>
+    <string name="show_msg_touch_button">"Touch on of the buttons to play"</string>
+    <string name="msg_replace_name">"Confirms player changes?"</string>
+    <string name="replace_name">"Replace player name"</string>
+    <string name="msg_error_get_path_note">"Error getting sound."</string>
+    <string name="msg_not_connected">"No connected!"</string>
+    <string name="msg_no_scores_result">"No scores finded!"</string>
+    <string name="msg_error_getting_score_list">"Error getting online records list."</string>
+    <string name="msg_invalid_name">"Invalid name!"</string>
+    <string name="msg_no_connection">"Not connected!"</string>
+    <string name="error_open">"An error occurred. Please try again."</string>
+    <string name="about">"About"</string>
+    <string name="title_single">"Scores Single Mode"</string>
+    <string name="title_hard">"Scores Hard Mode"</string>
+
+    <!-- notes names CHANGE TO NORMAL NAME E.G: dó, ré -->
+    <string name="C">C</string>
+    <string name="CS">C#</string>
+    <string name="D">D</string>
+    <string name="DS">D#</string>
+    <string name="E">E</string>
+    <string name="F">F</string>
+    <string name="FS">F#</string>
+    <string name="G">G</string>
+    <string name="GS">G#</string>
+    <string name="A">A</string>
+    <string name="AS">A#</string>
+    <string name="B">B</string>
+
+    <drawable name="focused">#00A859</drawable>
+    <drawable name="selected">#BFDDBF</drawable>
+
+    <string name="note">note</string>
+    <string name="title_activity_single_score">Records Single Mode</string>
+    <string name="title_activity_hard_score">Records Hard Mode</string>
+    <string name="you_text">You:</string>
+    <string name="general_string">Text</string>
+    <string name="empty_list">Empty List:/</string>
+    <string name="txt_score_online">Score Online:</string>
+    <string name="title_activity_about">About</string>
+    <string name="thanks">"Thank you for download this app!</string>
+    <string name="credits">"Credits:"</string>
+    <string name="about_credits">	"The application's goal  is help people that like music learn to identify the key note by the fun way."</string>
+    <string name="names">"Adriano Falcão
+Frank Jr/Patricio Mourato                             
+Barbara Machado
+Cliparts Online and Icon finder
+Jr Vilarim
+Patrício Mourato
+Carlos Eduardo"</string>
+    <string name="helps">"Application's idea 
+Theme
+Main menu app
+Images
+Sounds
+Development
+Tests"</string>
+    
+    <string name="action_settings">Settings</string>
+    <string name="send_email">Send email</string>
+    <string name="title_activity_send_email">Send Feedback</string>
+ 	<string name="title_message">Message:</string>
+ 	<string name="title_subject">Subject:</string>
+ 	
+ 	<string name="send_suggestion">Send suggestion</string>
+ 	<string name="report_bug">Report bug</string>
+ 	
+ 	<string name="no_key">--</string>
+ 	
+ 	<string name="msg_fill_message">Please, write something before send message</string>
+ 	<string name="msg_error_send_message">Please try again later. An error occurred.</string>
+ 	
+</resources>
