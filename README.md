@@ -4,3 +4,5 @@
 The aim of this application is help people to training your ears to identify the key notes (musical notes)
 
 Any contribution is helpful. Translation, design, bugfix etc :)
+
+Please, pull request only for branch <b>development</b>
